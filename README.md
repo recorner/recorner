@@ -14,7 +14,7 @@ Blockchain-based voting system (Python, Solidity, Ethereum) - A decentralized ap
 E-commerce website (React, Laravel, MySQL) - A responsive and user-friendly e-commerce website that allows customers to browse, search, and purchase products online.
 Real-time chat application (GO, WebSocket) - A scalable and efficient chat application that allows users to communicate with each other in real-time.
 # 📫 Contact Me
-Email: recorner@developer.com
+Email: info@sharackma.com
 LinkedIn: linkedin.com/in/recorner
 Github: github.com/recorner
 Thank you for considering me for your next project. I'm passionate about creating efficient, secure, and scalable applications that deliver value to end-users. If you have any questions or would like to discuss a potential collaboration, please don't hesitate to reach out. I look forward to hearing from you!
