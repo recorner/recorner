@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a passionate and innovative developer on a mission to shape the digital landscape. With a strong foundation in full-stack development and a keen interest in emerging technologies, I'm dedicated to creating remarkable digital experiences that push the boundaries of what's possible.
+My name is Shadrack I'm a passionate and innovative developer on a mission to shape the digital landscape. With a strong foundation in full-stack development and a keen interest in emerging technologies, I'm dedicated to creating remarkable digital experiences that push the boundaries of what's possible.
 
 
 ## 🌐 Socials:
