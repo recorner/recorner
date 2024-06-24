@@ -8,7 +8,7 @@ I'm passionate about pushing technological boundaries. Expert in blockchain deve
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [shadrack@westronet.com](mailto:shadrack@westronet.com)
-* 🚀  I'm currently working on [Westro HR and CRM](http://(s)westro.app)
+* 🚀  I'm currently working on [Westro HR and CRM](https://github.com/westronet/westrocrm)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on AI and machine learning applications
 
