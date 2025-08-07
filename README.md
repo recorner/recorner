@@ -7,8 +7,8 @@ Innovative Programmer | Blockchain Enthusiast | AI Explorer | Software Engineer"
 I'm passionate about pushing technological boundaries. Expert in blockchain development, dealing with smart contract implementations. As an AI explorer, I'm constantly diving into ML and data-driven to create intelligent solutions i also speak python and love Tensorflow
 
 * 🌍  I'm based in Kenya
-* ✉️  You can contact me at [shadrack@westronet.com](mailto:shadrack@westronet.com)
-* 🚀  I'm currently working on [Westro HR and CRM](https://github.com/westronet/westrocrm)
+* ✉️  You can contact me at [westronet@gmail.com](mailto:westronet@gmail.com)
+* 🚀  I'm currently working on [HR SofTware](https://github.com/westronet/westrocrm)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on AI and machine learning applications
 
