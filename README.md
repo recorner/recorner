@@ -10,7 +10,7 @@ I’m comfortable operating close to the metal when needed and high in the stack
 - Reach me at: [westronet@gmail.com](mailto:westronet@gmail.com)
 - Currently working on: [Westro HR](https://github.com/westronet/westrocrm)
 - Exploring Rust for systems-level work
-- Open to collaboration where engineering depth actually matters
+- Open to collaboration where  depth actually matters
 
 ---
 
