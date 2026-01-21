@@ -9,7 +9,7 @@ I’m comfortable operating close to the metal when needed and high in the stack
 - Based in Kenya
 - Reach me at: [westronet@gmail.com](mailto:westronet@gmail.com)
 - Currently working on: [Westro HR](https://github.com/westronet/westrocrm)
-- Exploring Rust for systems-level work
+- Exploring Rust for slw
 - Open to collaboration where  depth actually matters
 
 ---
